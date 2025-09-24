@@ -197,8 +197,8 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
-	  printf("Saveetha Engineering College\n");
-	  printf("SCOFT\n");
+	  printf("BLENDED\n");
+	  printf("INTERNET OF THINGS\n");
 	  HAL_Delay(500);
     /* USER CODE BEGIN 3 */
   }
@@ -357,9 +357,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of Serial port utility   :
  
- <img width="1457" height="887" alt="image" src="https://github.com/user-attachments/assets/02b51fe8-769b-46ba-9b15-9621d0ce6f91" />
+<img width="1481" height="786" alt="image" src="https://github.com/user-attachments/assets/bd1e0064-b593-4a1d-b43a-b80045309ddd" />
 
- 
  
 ## Result :
 The IoT development board was successfully interfaced, and the USART was configured to transmit strings. The transmitted data was verified using a serial monitor, confirming proper communication.
